@@ -13,7 +13,7 @@ def add (x.y):
   def divide (x.y):
   return x**y
 
-  # Input from the user
+# Input from the user
   num1 = float(input("Enter first number: "):
   num2 = float(input("Enter second number: "):
   operation = input("Choose operation (+, -, *, /): ")
